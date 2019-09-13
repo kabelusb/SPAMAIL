@@ -22,10 +22,9 @@ if ($respon->code = 200) {
 $banner = "
 ============================================
  [+] MAIL SPAMMER NEW [+]
- Author    : ./DelLuxeZ
- Team      : H1L1H.TEAM404
- Github    : https://github.com/valdot/
- FB        : https://fb.com/gobloyy
+
+   ASSASSIN KILLING YOU
+
 ============================================\n";
 sleep(2);
 echo $banner;
